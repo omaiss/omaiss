@@ -10,9 +10,21 @@
 </p>
 
 ###
-<div>
-  <img src='https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b76110qz4w46qkywango3m32bte8gqpfsj4yrkntfyyfy&ep=v1_gifs_search&rid=giphy.gif&ct=g'/>
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <div style="flex: 1;">
+    <p>
+      <strong>Personal Insights</strong><br>
+      🌱 I’m currently exploring new technologies to enhance my skill set.<br>
+      🚀 I’m learning Go (Golang) to broaden my programming expertise.<br>
+      🔧 I’m diving into DevOps technologies to improve my understanding of modern development practices.<br>
+      ✍️ I love writing blogs and guides to share knowledge and insights with the tech community.
+    </p>
+  </div>
+  <div>
+    <img src='https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b76110qz4w46qkywango3m32bte8gqpfsj4yrkntfyyfy&ep=v1_gifs_search&rid=giphy.gif&ct=g' style="height: 100px; width: auto;" />
+  </div>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omaiss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=omaiss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
