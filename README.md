@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">"Innovating One Commit at a Time."<br>I dive into my world of code, creativity, and continuous learning as I build solutions, explore new technologies, and contribute to the tech community.</p>
+<p align="mid">"Innovating One Commit at a Time."<br>I dive into my world of code, creativity, and continuous learning as I build solutions, explore new technologies, and contribute to the tech community.</p>
 
 ###
 
