@@ -11,7 +11,6 @@
 
 ###
  <img src='https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b76110qz4w46qkywango3m32bte8gqpfsj4yrkntfyyfy&ep=v1_gifs_search&rid=giphy.gif&ct=g' align='right' style="height: 150px; width: auto;" />
-<p>
 
 ## Personal Insights
   
@@ -22,7 +21,7 @@
   🔧 I’m diving into DevOps technologies to improve my understanding of modern development practices.
   
   ✍️ I love writing blogs and guides to share knowledge and insights with the tech community.
-</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omaiss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
