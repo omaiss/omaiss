@@ -4,6 +4,8 @@
 
 <p align="center">
   "Innovating One Commit at a Time."<br>
+</p>
+<p align='justify'>
   I dive into my world of code, creativity, and continuous learning as I build solutions, explore new technologies, and contribute to the tech community.
 </p>
 
