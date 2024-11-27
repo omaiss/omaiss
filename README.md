@@ -12,7 +12,8 @@
 ###
  <img src='https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b76110qz4w46qkywango3m32bte8gqpfsj4yrkntfyyfy&ep=v1_gifs_search&rid=giphy.gif&ct=g' align='right' style="height: 150px; width: auto;" />
 <p>
-  <strong>Personal Insights</strong><br>
+## Personal Insights
+  
   🌱 I’m currently exploring new technologies to enhance my skill set.
   
   🚀 I’m learning Go (Golang) to broaden my programming expertise.
