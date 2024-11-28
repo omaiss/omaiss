@@ -14,11 +14,11 @@
 
 ## Personal Insights
   
-  🌱 I’m currently exploring new technologies to enhance my skill set.
+  🌱 I’m exploring new technologies to enhance my skill set including React, DevOps, and Django.
   
-  🚀 I’m learning Go (Golang) to broaden my programming expertise.
+  🚀 I’m learning React and Django to broaden my programming expertise.
   
-  🔧 I’m diving into DevOps technologies to improve my understanding of modern development practices.
+  🔧 I’m diving into DevOps technologies to improve my understanding of modern deployment practices.
   
   ✍️ I love writing blogs and guides to share knowledge and insights with the tech community.
 
