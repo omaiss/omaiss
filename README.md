@@ -18,7 +18,7 @@
   
   🚀 I’m learning React and Django to broaden my programming expertise.
   
-  🔧 I’m diving into DevOps technologies to improve my understanding of modern deployment practices.
+  🔧 I’m diving into DevOps tools to improve my understanding of modern deployment practices.
   
   ✍️ I love writing blogs and guides to share knowledge and insights with the tech community.
 
