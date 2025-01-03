@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Muhammad Omais Afzal and I'm a Software Engineer, from Pakistan</h2>
 
-###
+
 
 <p align="center">
   "Innovating One Commit at a Time."<br>
@@ -9,7 +9,7 @@
   I dive into my world of code, creativity, and continuous learning as I build solutions, explore new technologies, and contribute to the tech community.
 </p>
 
-###
+
  <img src='https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b76110qz4w46qkywango3m32bte8gqpfsj4yrkntfyyfy&ep=v1_gifs_search&rid=giphy.gif&ct=g' align='right' style="height: 190px; width: auto;" />
 
 ## Personal Insights
@@ -28,7 +28,6 @@
   <img src="https://streak-stats.demolab.com?user=omaiss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
