@@ -64,7 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://discordapp.com/users/omaisafzal_70131">
