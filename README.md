@@ -15,7 +15,7 @@
 
 ## 🌟 Current Focus  
 
-- 🌱 Expanding expertise in **React** and **Django** for full-stack development.  
+- 🌱 Expanding expertise in **AI** and **Backend Development**.  
 - 🔧 Diving into **DevOps (Docker, Kubernetes, CI/CD)** to sharpen deployment workflows.  
 - 🤖 Building projects that integrate **AI** into practical software engineering solutions.  
 - ✍️ Writing blogs & guides to share insights with the tech community.  
